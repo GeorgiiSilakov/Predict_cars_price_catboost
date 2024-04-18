@@ -1,1 +1,1 @@
-# Predict_cars_price_catboost
+Predicting car prices using CatBoost
